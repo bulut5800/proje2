@@ -1,0 +1,45 @@
+body{
+    background-color: #a53a3a;
+}
+#baslik{
+    font-size: 20pt;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+.res1>img{
+    width: 250px;
+    height: 300px;
+    cursor: pointer;
+    border: 3px solid black;
+    border-radius: 40px;
+    align-items: center;
+    margin-top: 30px;
+}
+.res1{
+    align-items: center;
+}
+
+.yazi{
+    background-color: #a52a2a;
+    color: antiquewhite;
+    width: 900px;
+    position: relative;
+    left: 250px;
+    border: 2px solid red;
+    border-radius: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+footer{
+    background-color: #000;
+    text-align: center;
+    height: 50px;
+    vertical-align: center;
+    color: aliceblue;
+}

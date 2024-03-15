@@ -1,0 +1,62 @@
+#site{
+    background-color: #3aaacf;
+    padding: 10px;
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 3px solid #FE8300;
+}
+
+#bas{
+    font-size: 32pt;
+    font-family: monospace;
+    line-height: 100px;
+    font-weight: bold;
+    background-color: #216278;
+    text-align: center;
+    height: 100px;
+    
+}
+
+*{
+    margin: 0px;
+    padding: 0;
+}
+
+body{
+    background-color: #FFA240	;
+    margin-top: 15px;
+}
+
+iframe{
+    height: 100%;
+    width: 100%;
+    border: 0px;
+    background-color: #fff;
+}
+#site, #bas, #menu, #icerik, iframe{
+    border-radius: 10px;
+}
+
+#menu{
+    background-color: #fff;
+    height: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+#icerik{
+    height: 500px;
+    margin-bottom: 10px;
+}
+#alt{
+    font-size: 12pt;
+    line-height: 40px;
+    font-family: monospace;
+    font-weight: bold;
+    color: black;
+    background-color: #d3d3d3;
+    text-align: center;
+    height: 40px;
+}
